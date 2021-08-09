@@ -1,0 +1,4 @@
+*.log
+*.bat
+settings.py
+__pycache__/
